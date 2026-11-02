@@ -1,6 +1,6 @@
 ![styxabhor — Bug Bounty, OSINT and Web Security](styxabhor-raven-animated-v3.gif)
 
-# Hey, I'm Avinash — styxabhor.
+# Hey, I'm Avinash - styxabhor.
 
 ![Animated terminal cycling through: Bug Bounty Hunter; OSINT Researcher; Web Security & Vulnerability Analyst; Building Tools & Websites with AI; Exploring Android Pentesting.](styxabhor-terminal-bio.gif)
 
